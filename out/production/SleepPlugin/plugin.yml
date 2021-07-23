@@ -1,0 +1,5 @@
+name: SleepPlugin
+version: 1.0
+author: DomDiiDOm
+description: A Simple Sleep Plugin
+main: de.domdiidom.sleep.main.Main

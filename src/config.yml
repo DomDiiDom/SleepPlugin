@@ -1,0 +1,4 @@
+sleep:
+  playerCount: 3
+  world: world
+  message_to_day: Der Server legt sich schlafen.. Es wird morgen!
